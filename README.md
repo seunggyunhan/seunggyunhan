@@ -1,6 +1,8 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&text=Seunggyun's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
-    </div>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=Seunggyun's%20GitHub&fontColor=ffffff&fontSize=60" />
+    <h3>Welcome to my GitHub profile!</h3>
+</div>
+
     
 
 <div align= "center">
