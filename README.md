@@ -1,8 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header)
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=180&text=Seunggyun's%20GitHub&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=120&text=Seunggyun's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
     </div>
+    
     
 
 
