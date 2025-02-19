@@ -1,14 +1,7 @@
-<div align="center">
-    <!-- 배너 이미지 -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header" />
-    
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header)
 
 # Seunggyun's GitHub
-
-</div>
-
-    
+   
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
