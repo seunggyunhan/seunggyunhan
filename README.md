@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=55ab30&height=180&text=Seunggyun's%20GitHub&animation=&fontColor=1f7024&fontSize=60" />
+    </div>
+    ## Hi there 👋
 
 <!--
 **seunggyunhan/seunggyunhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
