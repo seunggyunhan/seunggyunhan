@@ -2,8 +2,10 @@
     <!-- 배너 이미지 -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header" />
     
-    <!-- 배너 아래 제목 텍스트 -->
-    <h1>Seunggyun's GitHub</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header)
+
+# Seunggyun's GitHub
+
 </div>
 
     
