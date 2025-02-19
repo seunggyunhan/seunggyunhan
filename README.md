@@ -1,6 +1,9 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=Seunggyun's%20GitHub&fontColor=ffffff&fontSize=60" />
-    <h3>Welcome to my GitHub profile!</h3>
+    <!-- 배너 이미지 -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header" />
+    
+    <!-- 배너 아래 제목 텍스트 -->
+    <h1>Seunggyun's GitHub</h1>
 </div>
 
     
