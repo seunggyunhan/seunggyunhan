@@ -1,7 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=55ab30&height=180&text=Seunggyun's%20GitHub&animation=&fontColor=1f7024&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&text=Seunggyun's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
     </div>
-
+    
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -24,6 +24,7 @@
 </div>
 
 
+    
         
 
 <!--
