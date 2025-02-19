@@ -1,8 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header)
 
-<p align="center" style="font-size: 200px; font-weight: bold; margin-bottom: 0;">
-    Seunggyun's GitHub
-</p>
+<h1 align="center" style="border-bottom: none; font-size: 60px;">Seunggyun's GitHub</h1>
+
 
 
 <br>
